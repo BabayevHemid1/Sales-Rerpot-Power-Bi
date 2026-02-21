@@ -25,5 +25,7 @@ This repository contains a dynamic Power BI project (`Sales Report.pbix`) develo
 **Hamid Babayev**
 * Data Analyst | Backend Developer
 * GitHub: [BabayevHemid1](https://github.com/BabayevHemid1)
+* Example [Dashboard preview] (https://github.com/BabayevHemid1/Sales-Rerpot-Power-Bi/blob/main/Report.jpeg)
+* Example [Dashboard preview] (https://github.com/BabayevHemid1/Sales-Rerpot-Power-Bi/blob/main/image.png)
 
 
